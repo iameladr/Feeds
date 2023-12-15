@@ -1,0 +1,12 @@
+#
+# Other sources for IP Blacklist:
+#
+#
+https://www.blocklist.de/downloads/export-ips_all.txt
+#
+https://github.com/firehol/blocklist-ipsets
+#
+https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+#
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+#
