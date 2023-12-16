@@ -1,5 +1,10 @@
 #
-# List of malicious files / programs by SHA256:
+# SHA256 - Blacklist
+#
+# List of malicious files/programs by SHA256:
+#
+# Generate by eladr
+#
 #
 3308FBE0E7E49941F9D961ED29FD4E3AC432CB1538273CEA7A8CEDC1BF68C64D
 c52ad663ff29e146de6b7b20d834304202de7120e93a93de1de1cb1d56190bfd
