@@ -1,5 +1,5 @@
 # Gmail addresses
-# play.google.com (Optional)
+# Require Ports - TCP 443, 80
 #
 *.client-channel.google.com
 accounts.google.com
@@ -12,4 +12,4 @@ ssl.gstatic.com
 www.google.com
 www.gstatic.com
 ogs.google.com
-play.google.com
+www.googleapis.com
