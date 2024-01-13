@@ -1,0 +1,37 @@
+# Google Meet FQDNs:
+#
+# Require ports for Audio / Video - UDP 3478, 19302-19309
+# Require ports for Web traffic & Authentication - UDP/TCP 443
+#
+# Domains for static resources:
+clients2.google.com
+clients4.google.com
+clients6.google.com
+www.gstatic.com
+fonts.gstatic.com
+lh3.googleusercontent.com
+meetings.clients6.google.com
+#
+# Domains for API endpoint connectivity:
+accounts.google.com
+apis.google.com
+meetings.googleapis.com
+hangouts.googleapis.com
+meet.google.com
+apps.google.com
+jamboard.google.com
+docs.google.com
+#
+# Domains for live streaming:
+stream.meet.google.com
+youtube.googleapis.com
+www.youtube-nocookie.com
+googlevideo.com
+#
+# Domains for user feedback and event log uploads:
+www.google.com
+feedback.googleusercontent.com
+#
+# Domains allowlist to enable audio/video traffic over TLS:
+workspace.turns.goog
+meet.turns.goog
