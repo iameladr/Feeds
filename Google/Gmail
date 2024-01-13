@@ -1,0 +1,15 @@
+# Gmail addresses
+# play.google.com (Optional)
+#
+*.client-channel.google.com
+accounts.google.com
+apis.google.com
+clients*.google.com
+contacts.google.com
+*.googleusercontent.com
+mail.google.com
+ssl.gstatic.com
+www.google.com
+www.gstatic.com
+ogs.google.com
+play.google.com
