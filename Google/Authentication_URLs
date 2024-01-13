@@ -1,0 +1,13 @@
+# Google authentication URLs:
+#
+# Require Ports - TCP 80,443
+#
+accounts.google.com
+www.googleapis.com
+oauth2.googleapis.com
+accounts.youtube.com
+www.google.com
+fonts.gstatic.com
+ssl.gstatic.com
+www.gstatic.com
+*.googleusercontent.com
