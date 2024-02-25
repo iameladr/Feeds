@@ -294,6 +294,7 @@ substrate.office.com
 ols.officeapps.live.com
 waus2watcab01.blob.core.windows.net
 waus2watcab02.blob.core.windows.net
+binaries.templates.cdn.office.net
 #
 # Wildcard URLs
 #
@@ -391,6 +392,7 @@ waus2watcab02.blob.core.windows.net
 *.activity.windows.com
 *.akamaiedge.net
 *.akamaitechnologies.com
+*.static.akamaitechnologies.com
 *.analysis.windows.net
 *.api.bap.microsoft.com
 *.api.powerplatform.com
@@ -464,3 +466,7 @@ waus2watcab02.blob.core.windows.net
 *-admin.sharepoint.com
 *-files.sharepoint.com
 *-myfiles.sharepoint.com
+*.akamai.net
+*.prod.do.dsp.mp.microsoft.com
+*.dscd.akamai.net
+*.data.microsoft.com
