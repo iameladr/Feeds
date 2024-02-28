@@ -1,8 +1,29 @@
 # Microsoft URLs
 #
+msedge.b.tlu.dl.delivery.mp.microsoft.com
+ow1.res.office365.com
+teams-staticscdn.trafficmanager.net
+r4.res.office365.com.edgekey.net
+dcat-nlu-fg-shim.trafficmanager.net
+excelonline.nel.measure.office.net
+spoppe-b.azureedge.net
+ecs.nel.measure.office.net
+p-th.bing.com.trafficmanager.net
+static2.sharepointonline.com.edgekey.net
+p-static.bing.trafficmanager.net
+uci.edog.cdn.office.net
+assets.msn.com
+th.bing.com
+res-1.cdn.office.net
+ctldl.windowsupdate.com
+owamail.public.cdn.office.net.edgekey.net
+teams.nel.measure.office.net
 crl.microsoft.com
+res.cdn.office.net
+edgeservices.bing.com
 login.windows.net
 management.azure.com
+tile-service.weather.microsoft.com
 mscrl.microsoft.com
 ocsp.msocsp.com
 policykeyservice.dc.ad.msft.net
@@ -294,6 +315,8 @@ ols.officeapps.live.com
 waus2watcab01.blob.core.windows.net
 waus2watcab02.blob.core.windows.net
 binaries.templates.cdn.office.net
+au.download.windowsupdate.com
+copilot-copilot-msft-com.trafficmanager.net
 #
 # Wildcard URLs
 #
@@ -456,6 +479,7 @@ binaries.templates.cdn.office.net
 *.hosting.portal.azure.com
 *.hosting.portal.azure.net
 *.nel.measure.office.net
+*.measure.office.net
 *.portal.azure.com
 *.reactblade.portal.azure.net
 *.res.office365.com
@@ -468,5 +492,17 @@ binaries.templates.cdn.office.net
 *-myfiles.sharepoint.com
 *.akamai.net
 *.prod.do.dsp.mp.microsoft.com
+*.dspg.akamaiedge.net
 *.dscd.akamai.net
 *.data.microsoft.com
+*.edog.cdn.office.net
+*.bing.trafficmanager.net
+*.sharepointonline.com.edgekey.net
+*.bing.com.trafficmanager.net
+*.b.tlu.dl.delivery.mp.microsoft.com
+*.tlu.dl.delivery.mp.microsoft.com
+*.dl.delivery.mp.microsoft.com
+*.delivery.mp.microsoft.com
+*.mp.microsoft.com
+*.com.trafficmanager.net
+*.edgekey.net
