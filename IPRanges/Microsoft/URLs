@@ -298,6 +298,7 @@ binaries.templates.cdn.office.net
 # Wildcard URLs
 #
 *cdn.onenote.net
+*.cdn.onenote.net
 *.aadconnecthealth.azure.com
 *.adhybridhealth.azure.com
 *.blob.core.windows.net
