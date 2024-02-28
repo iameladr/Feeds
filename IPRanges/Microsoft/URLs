@@ -1,7 +1,12 @@
 # Microsoft URLs
 #
+statics.teams.cdn.office.net
+exo.nel.measure.office.net
+wildcard.weather.microsoft.com.edgekey.net
+cdp-tlu-shim.trafficmanager.net
 msedge.b.tlu.dl.delivery.mp.microsoft.com
 ow1.res.office365.com
+img-s-msn-com.akamaized.net
 teams-staticscdn.trafficmanager.net
 r4.res.office365.com.edgekey.net
 dcat-nlu-fg-shim.trafficmanager.net
@@ -504,5 +509,9 @@ copilot-copilot-msft-com.trafficmanager.net
 *.dl.delivery.mp.microsoft.com
 *.delivery.mp.microsoft.com
 *.mp.microsoft.com
+*.dscg2.akamai.net
 *.com.trafficmanager.net
 *.edgekey.net
+*.dspw65.akamai.net
+*.g.akamaiedge.net
+*.resources.office.net
