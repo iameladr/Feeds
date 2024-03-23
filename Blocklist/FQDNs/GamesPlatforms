@@ -1,0 +1,131 @@
+#  --------------------------------------[Info]---------------------------------------
+@
+#  Domains of video game publishers and entertainment conglomerates.
+#  Include Blizzard, Epic Games, Ubisoft, Steam, GOG, etc.
+#
+#  The list is divided by companies for convenience
+#
+#  ------------------------------------[Redshell]-------------------------------------
+#
+redshell.io
+api.redshell.io
+treasuredata.com
+api.treasuredata.com
+#
+#  ------------------------------------[Blizzard]-------------------------------------
+#
+telemetry-in.battle.net
+battle.net
+battlenet.com.cn
+blizzard.cn
+blizzard.com
+blizzardgames.cn
+blz-contentstack.com
+blz.dev
+blzstatic.cn
+bnet.163.com
+bnet.cn
+#
+#  -----------------------------------[Epic Games]------------------------------------
+#
+dev.epicgames.com
+api.epicgames.dev
+et.epicgames.com
+et2.epicgames.com
+udn.epicgames.com
+etsource.epicgames.com
+metrics.ol.epicgames.com
+datarouter.ol.epicgames.com
+#
+#  --------------------------------------[GOG]---------------------------------------
+#
+s.team
+steam-chat.com
+steamchina.com
+steamcommunity.com
+steamcontent.com
+#
+#  ----------------------------------[Unity Engine]-----------------------------------
+#
+cdp.cloud.unity3d.com
+api.uca.cloud.unity3d.com
+config.uca.cloud.unity3d.com
+perf-events.cloud.unity3d.com
+prd-lender.cdp.internal.unity3d.com
+thind-gke-usc.prd.data.corp.unity3d.com
+thind-prd-knob.data.ie.unity3d.com
+remote-config-proxy-prd.uca.cloud.unity3d.com
+data-optout-service.uca.cloud.unity3d.com
+#
+#  --------------------------------------[GOG]---------------------------------------
+#
+marketing-sections.gog.com
+insights-collector.gog.com
+#
+#  ---------------------------------[Electronic Arts]--------------------------------
+#
+ea.com
+*.ea.com
+eamobile.com
+*.eamobile.com
+easports.com
+*.easports.com
+nearpolar.com
+*.nearpolar.com
+swtor.com
+*.swtor.com
+tnt-ea.com
+*.tnt-ea.com
+#
+#  ------------------------------------[XBOX Live]-----------------------------------
+#
+gamepass.com
+xboxab.com
+xboxab.net
+xbox-global.ifs.windows.com
+xbox-guide-public.rec.mp.microsoft.com
+xbox.ipv6.microsoft.com
+xboxlive.com
+xboxservices.com
+#
+#  ------------------------------------[Volorant]------------------------------------
+#
+playvalorant.com
+valorant.scd.riotcdn.net
+valorant.secure.dyn.riotcdn.net
+#
+#  -------------------------------------[Valve]--------------------------------------
+#
+deathmatchclassic.com
+modexpo.com
+poweredbysteam.net
+steamcommunity.com
+steamdevdays.com
+steamgames.com
+steamgames.net
+steampowered.com
+steampoweredgames.com
+steamserver.net
+steamstatic.com
+steamusers.com
+steamusers.net
+valve.net
+valvecorporation.com
+valvesoftware.com
+#
+#  -------------------------------------[Itch.io]------------------------------------
+#
+Itch.io
+*.itch.io
+#
+#  -------------------------------------[Ubisoft]------------------------------------
+#
+ubi.com
+ubisoft.com
+ubisoftconnect.com
+ubisoft.org
+staticctf.ubisoft.com
+static-dm.ubisoft.com
+overlay.cdn.ubisoft.com
+ubistatic-a.ubisoft.com
+ubistatic2-a.ubisoft.com
