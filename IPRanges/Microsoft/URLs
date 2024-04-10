@@ -523,3 +523,30 @@ eur03b.ps.compliance.protection.outlook.com
 *.support.services.microsoft.com
 *.services.microsoft.com
 *.support.microsoft.com
+#
+#	----------	Azure Certificates	----------
+#
+#	AIA
+#
+cacerts.digicert.com
+cacerts.digicert.cn
+cacerts.geotrust.com
+www.microsoft.com
+#
+#	CRL
+#
+crl.microsoft.com
+crl3.digicert.com
+crl4.digicert.com
+crl.digicert.cn
+cdp.geotrust.com
+mscrl.microsoft.com
+www.microsoft.com
+#
+#	OCSP
+#
+ocsp.msocsp.com
+ocsp.digicert.com
+ocsp.digicert.cn
+oneocsp.microsoft.com
+status.geotrust.com
