@@ -382,6 +382,9 @@ copilot-copilot-msft-com.trafficmanager.net
 *.outlook.office.com
 *.outlook.office365.com
 *.protection.outlook.com
+compliance.protection.outlook.com
+ps.compliance.protection.outlook.com
+eur03b.ps.compliance.protection.outlook.com
 *.live.com
 *.teams.microsoft.com
 *.cloudapp.net
