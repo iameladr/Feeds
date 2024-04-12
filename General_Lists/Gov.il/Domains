@@ -644,10 +644,17 @@ www.embassies.gov.il
 # -------------------------[taxes.gov.il]------------------------
 #
 taxinfo.taxes.gov.il
+taxes.gov.il
+#
+# -------------------------[tehila.gov.il]------------------------
+#
+smartcard.tehila.gov.il
+tehila.gov.il
 #
 # ----------------------------[others gov.il]--------------------------
 #
 gov.il
+www.gov.il
 equipment.102.gov.il
 www.102.gov.il
 Iaa.gov.il
