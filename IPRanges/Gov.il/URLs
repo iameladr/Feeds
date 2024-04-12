@@ -1,7 +1,5 @@
 # URLs list of websites that are related to Gov.il domain
 #
-taxinfo.taxes.gov.il
-#
 # edu.gov.il_domain
 #
 apps2.edu.gov.il
@@ -640,9 +638,24 @@ il30pl.embassies.gov.il
 new.embassies.gov.il
 www.embassies.gov.il
 #
+# Taxes.gov.il
+#
+taxes.gov.il
+taxinfo.taxes.gov.il
+#
+# Tehila
+#
+smartcard.tehila.gov.il
+tehila.gov.il
+#
 # others gov.il_domain
 #
 gov.il
+www.gov.il
+avivim.gov.il
+plan.mavat.moin.gov.il
+mavat.moin.gov.il
+moin.gov.il
 equipment.102.gov.il
 www.102.gov.il
 Iaa.gov.il
