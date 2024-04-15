@@ -652,6 +652,15 @@ taxes.gov.il
 smartcard.tehila.gov.il
 tehila.gov.il
 #
+# ----------------------------[btl.gov.il]--------------------------
+#
+blsip.btl.gov.il
+www.btl.gov.il
+#
+# ----------------------------[ecom.gov.il]--------------------------
+#
+tso.sca.ecom.gov.il
+#
 # ----------------------------[others gov.il]--------------------------
 #
 login.gov.il
@@ -755,4 +764,3 @@ www.gov.il
 70.gov.il
 www.izkor.gov.il
 survey.gov.il
-www.btl.gov.il
