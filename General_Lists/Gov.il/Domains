@@ -183,6 +183,10 @@ sslvpn.moin.gov.il
 www.moin.gov.il
 rotem.moin.gov.il
 #
+# ---------------------------------[labor.gov.il]--------------------------------
+#
+data.labor.gov.il
+#
 # ---------------------------------[health.gov.il]--------------------------------
 #
 vpn5.health.gov.il
@@ -665,6 +669,7 @@ tso.sca.ecom.gov.il
 # ----------------------------[others gov.il]--------------------------
 #
 login.gov.il
+go.gov.il
 govforms.gov.il
 gov.il
 equipment.102.gov.il
