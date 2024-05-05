@@ -117,16 +117,21 @@ shefi.education.gov.il
 #
 # -----------------------------------[govmap.gov.il]----------------------------
 #
+www.govmap.gov.il
+govmap.gov.il
 ags.govmap.gov.il
+es.govmap.gov.il
 api.govmap.gov.il
 beta.govmap.gov.il
+map.govmap.gov.il
 mapcdn.govmap.gov.il
 new.govmap.gov.il
 old.govmap.gov.il
 rest.govmap.gov.il
-www.govmap.gov.il
-govmap.gov.il
 cdnil.govmap.gov.il
+cdn.govmap.gov.il
+analytics.egov.gov.il
+ags.govmap.gov.il
 #
 # ------------------------------------[btl.gov.il]----------------------------------
 #
@@ -667,8 +672,13 @@ www.btl.gov.il
 #
 tso.sca.ecom.gov.il
 #
+# ----------------------------[ecom.gov.il]--------------------------
+#
+dogsearch.moag.gov.il
+#
 # ----------------------------[others gov.il]--------------------------
 #
+merkava.mrp.gov.il
 govisit.gov.il
 login.gov.il
 go.gov.il
